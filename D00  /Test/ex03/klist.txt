@@ -1,0 +1,5 @@
+Credentials cache: API:55856249-A105-4308-BBD2-5C47D510B001
+        Principal: jeetienn@42.FR
+
+  Issued                Expires               Principal
+Feb  5 22:51:44 2018  Feb 12 22:51:20 2018  krbtgt/42.FR@42.FR
